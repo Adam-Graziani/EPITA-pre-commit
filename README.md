@@ -3,7 +3,7 @@ A collections of pre-commit for EPITA coding style-compliant projects.
 
 ## Usage
 
-Download the [compile_flags.txt](), [.pre-commit-config.yaml]() and [.clang-tidy-epita]() files to the root of your repository.
+Download the [compile_flags.txt](/compile_flags.txt), [.pre-commit-config.yaml](/.pre-commit-config.yaml) and [.clang-tidy-epita](/.clang-tidy-epita) files to the root of your repository.
 
 Run the following at the root of your terminal:
 ```sh
